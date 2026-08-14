@@ -1,4 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Tinhinane
+
+💻 About Me
+
+🛠️ Tech Stack
+
+🚀 Featured Projects
+
+📚 Currently Learning
+
+🎯 Goals
+
+📊 GitHub Stats
+
+🤝 Connect With Me
 
 <!--
 **tinhinaneamirat07-lab/tinhinaneamirat07-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
