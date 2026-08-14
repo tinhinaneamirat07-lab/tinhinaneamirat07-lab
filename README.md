@@ -21,9 +21,17 @@ I enjoy learning by building projects, experimenting with different technologies
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-### Programming & Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,git,github,docker,vscode" alt="Skills" />
+</p>
+
+### 🤖 AI & Machine Learning Interests
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" alt="AI & ML Interests" />
+</p>
 
 
 
